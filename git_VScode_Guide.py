@@ -10,4 +10,9 @@
     # Click Source control side bar, in the Message box, enter "name change"(which means commit the changes) and click Check button.
     # Click push button to upload the change on github  
 
+#download remote data from github
+    #Click Source control side bar, and click pull button to download data from git hub or in command-line, enter git pull
+
 #for more details, please check the video https://www.youtube.com/watch?v=3Tn58KQvWtU
+
+
